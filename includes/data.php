@@ -12,7 +12,7 @@
 
 // ---------- Home page hero slides (the big picture) ----------
 $heroSlides = [
-    ['image' => '', 'alt' => 'Hero slide 1'],
+    ['image' => 'images/Banner1.jpeg', 'alt' => ''],
     ['image' => '', 'alt' => 'Hero slide 2'],
     ['image' => '', 'alt' => 'Hero slide 3'],
 ];
